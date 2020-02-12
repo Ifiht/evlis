@@ -1,1 +1,1 @@
-web: node index.js
+web: node c9sdk/server.js
